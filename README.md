@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/kingsfordgroup/armatus.svg?branch=master)](https://travis-ci.org/kingsfordgroup/armatus)
 
+## Main version of this software is maintained at [kingsfordgroup](https://github.com/kingsfordgroup/armatus)
+
 armatus
 =======
 
